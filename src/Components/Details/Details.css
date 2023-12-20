@@ -1,0 +1,53 @@
+.ch_card{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    margin-top: 75px;
+
+}
+.go_back_button{
+    outline: none;
+    border-radius: 8px;
+    border: 1px solid #282c34;
+    color: #fff;
+    padding: 10px 20px;
+    background-color: #21343B;
+    cursor: pointer;
+}
+
+.button_div{
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.block_image{
+    margin: 0 auto;
+    width: 250px;
+    height: 300px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+td{
+    color: #fff;
+}
+.block{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 40px;
+    justify-content: center;
+    background-color: #21343B;
+    border-radius: 50px;
+    width: 500px;
+}
+
+.table{
+    margin: 0 auto;
+    max-width: 300px;
+}
+
